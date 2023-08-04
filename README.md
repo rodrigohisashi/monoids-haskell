@@ -1,1 +1,1 @@
-# monoids-haskell
+# monoids
